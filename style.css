@@ -1,0 +1,14 @@
+body {
+    background-color: #D1CA98;
+    font-style: italic;
+}
+.Contacto {
+    background-color: #C6BE80;
+}
+header{
+    background-attachment: fixed;
+    background-color: #B9A23C;
+}
+img{
+    border-radius: 5%;
+}
